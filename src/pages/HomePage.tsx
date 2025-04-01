@@ -44,22 +44,6 @@ const HomePage = () => {
       technologies: ["Python", "Machine Learning", "Biometric Data Analysis"],
       githubLink: "https://github.com/mitumitesh04/Personal-Health-Analysis.git",
       demoLink: "#"
-    },
-    {
-      title: "Sentiment Analysis for Product Reviews",
-      category: "Natural Language Processing",
-      description: "Created a sentiment analysis tool that evaluates customer reviews and feedback to extract emotional tone and specific product insights. Utilized BERT for natural language understanding and classification.",
-      technologies: ["NLP", "BERT", "Python", "Sentiment Analysis"],
-      githubLink: "https://github.com/mitesh-200228/sentiment-analysis",
-      demoLink: "#"
-    },
-    {
-      title: "Student Performance Prediction System",
-      category: "Machine Learning",
-      description: "Developed a machine learning system to predict student academic performance based on various factors including study hours, attendance, and engagement metrics.",
-      technologies: ["Python", "Scikit-learn", "XGBoost", "Neural Networks"],
-      githubLink: "https://github.com/mitesh-200228/student-performance-prediction",
-      demoLink: "#"
     }
   ];
 
@@ -71,7 +55,7 @@ const HomePage = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="space-y-8 reveal">
               <div className="flex flex-col gap-3">
-                <span className="text-lg text-primary font-medium">Artificial Intelligence Engineer</span>
+                <span className="text-lg text-primary font-medium">Machine Learning Engineer</span>
                 <h1 className="heading-xl">
                   Hi, I'm
                   <br />
@@ -208,10 +192,10 @@ const HomePage = () => {
             </div>
             
             <div className="glass-card p-6 space-y-4">
-              <h3 className="text-xl font-semibold text-primary">Junior Coordinator, BMSCE Fest</h3>
+              <h3 className="text-xl font-semibold text-primary">Senior Coordinator, BMSCE Fest</h3>
               <p className="text-sm text-muted-foreground">May 2023 - Present</p>
               <p className="text-muted-foreground">
-                Actively coordinate technical events and workshops for the college's annual technical and cultural festival. Responsible for planning, organizing, and executing multiple events simultaneously while managing event logistics, participant registrations, and coordinating with various stakeholders.
+                Actively coordinated for the college's annual technical and cultural festival. Responsible for planning, organizing, and executing multiple events simultaneously while managing event logistics, participant registrations, and coordinating with various stakeholders.
               </p>
             </div>
           </div>

@@ -6,7 +6,7 @@ const AboutPage = () => {
     <div className="section-container">
       <SectionTitle 
         title="About Me" 
-        subtitle="Artificial Intelligence Engineer specializing in machine learning, computer vision, and real-time applications."
+        subtitle="Machine Learning Engineer specializing in building  real-time applications."
       />
       
       <div className="grid grid-cols-1 md:grid-cols-5 gap-10">
