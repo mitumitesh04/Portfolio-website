@@ -113,7 +113,7 @@ const HomePage = () => {
             <div className="relative reveal">
               <div className="aspect-square bg-gradient-to-tr from-primary/20 to-primary/5 rounded-3xl overflow-hidden flex items-center justify-center shadow-xl">
                 <div className="absolute inset-3 glass-card flex items-center justify-center">
-                <img src="\pp.jpeg" alt="Profile" className="w-full h-full object-cover rounded-3xl" />
+                <img src="/pic.jpeg" alt="Profile" className="w-full h-full object-cover rounded-3xl" />
                 </div>
               </div>
             </div>
