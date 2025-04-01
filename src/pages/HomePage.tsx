@@ -99,7 +99,7 @@ const HomePage = () => {
                   <Linkedin className="h-5 w-5" />
                 </a>
                 <a 
-                  href="https://github.com/mitesh-200228" 
+                  href="https://github.com/mitumitesh04" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="p-2 rounded-full bg-secondary hover:bg-primary/10 transition-colors duration-200"
