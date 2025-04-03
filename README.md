@@ -3,7 +3,7 @@
 Welcome to my portfolio! This project showcases my skills, experience, and projects in a structured and visually appealing way.
 
 ## 🖥️ Live Demo
-https://miteshaiml.vercel.app/
+https://www.miteshai.tech/
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
