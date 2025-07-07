@@ -15,6 +15,22 @@ const ProjectsPage = () => {
       demoLink: "#"
     },
     {
+      title: "Legal RAG Assistant",
+      category: "AI/NLP, LegalTech",
+      description: "A powerful Legal Research Assistant powered by Retrieval Augmented Generation (RAG) technology, built with Langflow and featuring an intelligent chat interface for legal document analysis. Supports semantic search, citation, and Indian legal expertise.",
+      technologies: ["Langflow", "Python", "AstraDB", "Google Gemini AI", "LangChain"],
+      githubLink: "https://github.com/mitumitesh04/Legal-RAG-assistance.git",
+      demoLink: "#"
+    },
+    {
+      title: "Health Risk Analysis MLOps",
+      category: "MLOps, HealthTech",
+      description: "End-to-end MLOps pipeline for health risk prediction with Docker, FastAPI, Streamlit, and MLflow. Features automated model training, evaluation, deployment, and monitoring for healthcare data.",
+      technologies: ["Python", "FastAPI", "MLflow", "Streamlit", "Docker"],
+      githubLink: "https://github.com/mitumitesh04/Health-risk-analysis-mlops.git",
+      demoLink: "#"
+    },
+    {
       title: "Event Management System with GUI in Java",
       category: "Desktop Application",
       description: "Designed a Java-based event management system with a user-friendly Swing GUI. Implemented password-protected event creation, attendee registration, and real-time event tracking using JOptionPane, ArrayList, and the EventManager class. Features include event creation, modification, cancellation, attendee management, and reporting capabilities.",
@@ -28,14 +44,6 @@ const ProjectsPage = () => {
       description: "Developed a real-time Driver Safety Monitoring System integrating a CNN for phone detection, dlib for facial landmark detection (EAR/MAR), and MediaPipe for head pose estimation. Utilized OpenCV for video processing, Flask for front-end visualization, and sound alerts for driver warnings. The system can detect drowsiness, distraction, and improper posture to prevent accidents.",
       technologies: ["CNN", "dlib", "MediaPipe", "OpenCV", "Flask", "Python"],
       githubLink: "https://github.com/mitumitesh04/Real-time-driver-monitoring-system-.git",
-      demoLink: "#"
-    },
-    {
-      title: "Personal Health Analysis using Wearable Device Data",
-      category: "Health Tech",
-      description: "Engineered a health analytics platform that processes real-time data from wearable sensors to assess sleep patterns, workout efficiency, and physiological trends. Implemented machine learning algorithms for predictive health insights and personalized recommendations. Features include health trend visualization, anomaly detection, and personalized health recommendations.",
-      technologies: ["Python", "Machine Learning", "Pandas", "NumPy", "Data Visualization", "Biometric Data Analysis"],
-      githubLink: "https://github.com/mitumitesh04/Personal-Health-Analysis.git",
       demoLink: "#"
     },
     {
