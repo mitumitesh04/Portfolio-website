@@ -22,11 +22,19 @@ const HomePage = () => {
       demoLink: "#"
     },
     {
-      title: "Event Management System with GUI in Java",
-      category: "Desktop Application",
-      description: "Designed a Java-based event management system with a user-friendly Swing GUI. Implemented password-protected event creation, attendee registration, and real-time event tracking using JOptionPane, ArrayList, and the EventManager class.",
-      technologies: ["Java", "Swing GUI", "JFrame", "JPanel", "JButton", "EventManager"],
-      githubLink: "https://github.com/mitesh-200228/event-management-system",
+      title: "Legal RAG Assistant",
+      category: "AI/NLP, LegalTech",
+      description: "A powerful Legal Research Assistant powered by Retrieval Augmented Generation (RAG) technology, built with Langflow and featuring an intelligent chat interface for legal document analysis. Supports semantic search, citation, and Indian legal expertise.",
+      technologies: ["Langflow", "Python", "AstraDB", "Google Gemini AI", "LangChain"],
+      githubLink: "https://github.com/mitumitesh04/Legal-RAG-assistance.git",
+      demoLink: "#"
+    },
+    {
+      title: "Health Risk Analysis MLOps",
+      category: "MLOps, HealthTech",
+      description: "End-to-end MLOps pipeline for health risk prediction with Docker, FastAPI, Streamlit, and MLflow. Features automated model training, evaluation, deployment, and monitoring for healthcare data.",
+      technologies: ["Python", "FastAPI", "MLflow", "Streamlit", "Docker"],
+      githubLink: "https://github.com/mitumitesh04/Health-risk-analysis-mlops.git",
       demoLink: "#"
     },
     {
@@ -37,14 +45,14 @@ const HomePage = () => {
       githubLink: "https://github.com/mitumitesh04/Real-time-driver-monitoring-system-.git",
       demoLink: "#"
     },
-    {
-      title: "Personal Health Analysis using Wearable Device Data",
-      category: "Health Tech",
-      description: "Engineered a health analytics platform that processes real-time data from wearable sensors to assess sleep patterns, workout efficiency, and physiological trends. Implemented machine learning algorithms for predictive health insights.",
-      technologies: ["Python", "Machine Learning", "Biometric Data Analysis"],
-      githubLink: "https://github.com/mitumitesh04/Personal-Health-Analysis.git",
+        {
+      title: "Event Management System with GUI in Java",
+      category: "Desktop Application",
+      description: "Designed a Java-based event management system with a user-friendly Swing GUI. Implemented password-protected event creation, attendee registration, and real-time event tracking using JOptionPane, ArrayList, and the EventManager class.",
+      technologies: ["Java", "Swing GUI", "JFrame", "JPanel", "JButton", "EventManager"],
+      githubLink: "https://github.com/mitesh-200228/event-management-system",
       demoLink: "#"
-    }
+    },
   ];
 
   return (
